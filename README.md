@@ -8,3 +8,4 @@ For dumb tests
     * Item 2b
 
 ## Another header <h2> another tag's header
+ * Write between <Diamonds>
