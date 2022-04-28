@@ -1,10 +1,10 @@
 # myRepo
 For dumb tests
 
-# An <h1> tag:
+# A header <h1> tag's header:
   * Item 1
   * Item 2
     * Item 2a
     * Item 2b
 
-## An <h2> tag
+## Another header <h2> another tag's header
