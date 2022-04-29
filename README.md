@@ -11,5 +11,8 @@ For dumb tests
  * Write between <Diamonds>
 
  
- \*Somthing bwtn astherisks:\*
+ \*Smth btwn astherisks:\*
+ \*<Smth btwn diamonds>\*
  _Smth in italic_
+ 
+ 
