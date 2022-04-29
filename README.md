@@ -9,3 +9,7 @@ For dumb tests
 
 ## Another header <h2> another tag's header
  * Write between <Diamonds>
+
+ 
+ \*Somthing bwtn astherisks:\*
+ _Smth in italic_
